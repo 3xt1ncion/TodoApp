@@ -5,4 +5,5 @@
     <string name="sign_in">Sign In</string>
     <string name="i_don_t_have_an_account">I don\'t have an account</string>
     <string name="signup">SignUp</string>
+    <string name="success">Success!</string>
 </resources>
