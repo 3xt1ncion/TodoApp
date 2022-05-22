@@ -128,7 +128,7 @@
         android:layout_marginHorizontal="30dp"
         android:paddingVertical="10dp"
         android:backgroundTint="@color/yellow"
-        android:fontFamily="@font/poppins_extrabold"
+        android:fontFamily="@font/poppins_extra_bold"
         android:text="@string/sign_in"
         android:textAllCaps="false"
         android:textColor="@color/black"
